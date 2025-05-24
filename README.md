@@ -37,8 +37,8 @@ It includes interactive visuals and KPIs for quick, high-level insights.
 
 ## 📸 Screenshot
 
-![Dashboard Preview](<img width="945" alt="HR emplyee analytics" src="https://github.com/user-attachments/assets/5eebe573-a0f0-491d-aaf1-c5838e91ec17" />
-)
+![Dashboard Preview]<img width="945" alt="HR emplyee analytics" src="https://github.com/user-attachments/assets/5eebe573-a0f0-491d-aaf1-c5838e91ec17" />
+
 
 ---
 
@@ -46,7 +46,7 @@ It includes interactive visuals and KPIs for quick, high-level insights.
 
 **Yasmeen Rafique**  
 Aspiring Data Analyst & Excel Enthusiast  
-Connect with me on [LinkedIn](www.linkedin.com/in/yasmeen-rafique)
+Connect with me on [LinkedIn] www.linkedin.com/in/yasmeen-rafique
 
 ---
 
